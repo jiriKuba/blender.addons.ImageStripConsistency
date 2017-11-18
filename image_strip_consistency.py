@@ -19,14 +19,15 @@
 bl_info = {
     "name": "ImageStripConsistency",
     "author": "Jiri Kuba",
-    "version": (1, 0, 0),
+    "version": (0, 9, 1),
     "blender": (2, 79, 0),
-    "location": "Video Sequence Editor",
+    "location": "Sequencer > Strip > Image strips consistency",
     "description": "Check image strip file name consistency",
     "wiki_url": "https://github.com/jiriKuba/blender.addons.ImageStripConsistency/blob/master/README.md",
     "tracker_url": "https://github.com/jiriKuba/blender.addons.ImageStripConsistency",
     "support": "COMMUNITY",
-    "category": "VSE"}
+    "category": "Sequencer",
+}
 
 import re
 import bpy
