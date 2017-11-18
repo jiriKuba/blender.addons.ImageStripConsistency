@@ -23,8 +23,8 @@ bl_info = {
     "blender": (2, 79, 0),
     "location": "Video Sequence Editor",
     "description": "Check image strip file name consistency",
-    "wiki_url": "github readme",
-    "tracker_url": "github url",
+    "wiki_url": "https://github.com/jiriKuba/blender.addons.ImageStripConsistency/blob/master/README.md",
+    "tracker_url": "https://github.com/jiriKuba/blender.addons.ImageStripConsistency",
     "support": "COMMUNITY",
     "category": "VSE"}
 
