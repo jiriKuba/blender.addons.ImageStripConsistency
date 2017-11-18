@@ -19,7 +19,7 @@
 bl_info = {
     "name": "ImageStripConsistency",
     "author": "Jiri Kuba",
-    "version": (0, 9, 1),
+    "version": (0, 9, 2),
     "blender": (2, 79, 0),
     "location": "Sequencer > Strip > Image strips consistency",
     "description": "Check image strip file name consistency",
