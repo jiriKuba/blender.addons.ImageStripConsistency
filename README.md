@@ -3,6 +3,7 @@ A simple Blender3D addon for checking image strip file name consistency.
 
 **Install**
 * Please follow basic addon installation steps in StackExchange: https://blender.stackexchange.com/questions/1688/installing-an-addon
+* *NOTE:* Install only python script (not whole zipped repo) 
 
 **Usage**
 * Addon will add menu item button to *Video Sequence Editor -> Strip -> Image strips consistency*
