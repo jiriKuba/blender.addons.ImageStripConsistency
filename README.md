@@ -10,3 +10,4 @@ A simple Blender3D addon for checking image strip file name consistency.
 * This button is starting script which finds all image strips in editor and iterate through all his file names. 
 * Script is separating numeric values from file name
 * Image strip is in consistency state when file names numbers are consecutive 
+[![Preview](https://img.youtube.com/vi/QYyP4bG7gQU/0.jpg)](https://www.youtube.com/watch?v=QYyP4bG7gQU)
